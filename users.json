@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Harry",
+        "githubAccount": true,
+        "gitterAccount": true,
+        "motivationLetter": true,
+        "introductoryTutorials": true,
+        "freeCodeCamp": true,
+        "tributePage": true,
+        "tributePageFeedback": true
+    },
+    {
+        "name": "Alan",
+        "githubAccount": true,
+        "gitterAccount": true,
+        "motivationLetter": true,
+        "introductoryTutorials": true,
+        "freeCodeCamp": false,
+        "tributePage": false,
+        "tributePageFeedback": false
+    }
+]
