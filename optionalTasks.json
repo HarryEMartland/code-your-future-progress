@@ -1,0 +1,12 @@
+{
+    "githubAccount": {
+        "displayName": "Signed up to <a href='http://github.com' target='_blank'>Github.com</a>",
+        "image": "https://assets-cdn.github.com/images/modules/logos_page/Octocat.png",
+        "link": "http://github.com"
+    },
+    "gitterAccount": {
+        "displayName": "Signed up to <a href='https://gitter.im/' target='_blank'>gitter.im</a>",
+        "image": "http://insights.ubuntu.com/wp-content/uploads/fadf/gitter.png",
+        "link": "https://gitter.im/"
+    }
+}

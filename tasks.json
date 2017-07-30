@@ -1,0 +1,27 @@
+{
+    "motivationLetter": {
+        "displayName": "Motivation Letter",
+        "persentage": 10,
+        "description": "Write a 300 word letter answering the following questions. why you want to start on the CodeYourFuture cource? Where do you think you will be in 5 years time? Email your completed letter to contact@codeyourfuture.co."
+    },
+    "introductoryTutorials": {
+        "displayName": "Introductory Tutorials",
+        "persentage": 20,
+        "description": "Complete the introductory tutorials on <a href='https://www.khanacademy.org/computing/computer-programming/html-css'>Khan Academy</a> or Sololearn if you only have acces to a phone. Solo learn has two tutorials <a href='https://www.sololearn.com/Course/HTML/'>HTML</a> and <a href='https://www.sololearn.com/Course/CSS/'>CSS</a>"
+    },
+    "freeCodeCamp": {
+        "displayName": "Free Code Camp Html and CSS",
+        "persentage": 20,
+        "description": "Complete the <a href='https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works'>first cource</a> on Free Code Camp."
+    },
+    "tributePage": {
+        "displayName": "Tribute Page",
+        "persentage": 40,
+        "description": "Folow the code camp <a href'https://www.freecodecamp.org/challenges/build-a-tribute-page'>here</a> and create your own tribute page for someone. Once complete email a link to your site to contact@codeyourfuture.co"
+    },
+    "tributePageFeedback": {
+        "displayName": "Tribute Page Feedback",
+        "persentage": 10,
+        "description": "Once you have completed your tribute page a mentor will give you some feedback and some adjustments. Once you have made these ajustments you will be accepted onto the cource"
+    }
+}
